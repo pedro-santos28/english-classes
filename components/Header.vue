@@ -1,5 +1,8 @@
 <template>
-  <div/>
+  <div>
+      <div>Teacher Pedro</div>
+
+  </div>
 </template>
 
 <script lang="ts" setup>
